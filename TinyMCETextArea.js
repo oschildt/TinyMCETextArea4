@@ -6,8 +6,8 @@
 
  ExtJS form field - a text area with integrated TinyMCE WYSIWYG Editor
 
- Version: 4.0
- Release date: 15.12.2013
+ Version: 4.0.1
+ Release date: 17.12.2013
  ExtJS Version: 4.2.1
  TinyMCE Version: 4.0.11
  License: LGPL v2.1 or later, Sencha License
